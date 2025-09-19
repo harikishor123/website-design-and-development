@@ -10,4 +10,4 @@ Developed and styled responsive web pages, focusing on cross-device compatibilit
 
 [cite_start]This certificate was awarded for the successful completion of an internship in Website Design and Development. [cite: 6, 7]
 
-![Internship Studio Certificate](https://github.com/harikishor123/website-design-and-development/blob/main/Internship%20Certificate.jpg)
+![Internship Studio Certificate](https://raw.githubusercontent.com/harikishor123/website-design-and-development/main/Internship%20Certificate.jpg)
